@@ -1,52 +1,37 @@
 {
   "publications": [
     {
-      "title": "[Paper Title 1]",
+      "title": "Path Diffuser: Diffusion Model for Data-Driven Traffic Simulator",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11†",
-        "Author 12†"
+        "Da Saem Lee*",
+        "Akash Karthikeyan",
+        "Yash Vardhan Pant",
+        "Sebastian Fischmeister"
       ],
-      "venue": "Preprint (2025)",
+      "venue": "ITSC 2025",
       "thumbnail": "images/thumbs/1.jpg",
       "selected": 1,
       "award": "",
       "links": {
         "pdf": "#",
-        "code": "#",
+        "code": "https://github.com/CL2-UWaterloo/PathDiffuser",
         "project": "#"
       }
     },
     {
-      "title": "[Paper Title 2]",
+      "title": "Evaluation of the Time Stability and Uniqueness in PPG based Biometric System",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11"
+        "Dae Yon Hwang*",
+        "Bilal Taha*",
+        "Da Saem Lee",
+        "Dimitrios Hatzinakos"
       ],
-      "venue": "Preprint (2025)",
+      "venue": "IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY (2021)",
       "thumbnail": "images/thumbs/2.jpg",
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "#"
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/9130730"
       }
     }
   ]
