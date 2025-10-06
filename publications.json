@@ -13,7 +13,7 @@
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "#",
+        "pdf": "https://arxiv.org/abs/2509.24995",
         "code": "https://github.com/CL2-UWaterloo/PathDiffuser",
         "project": "https://dasaemlee.github.io/projects/pathdiffuser/"
       }
