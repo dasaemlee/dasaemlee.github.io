@@ -1,3 +1,3 @@
-# AvatarOne: Monocular 3D Human Animation
+# PathDiffuser
 
-https://aku02.github.io/projects/avatarone/
+https://dasaemlee.github.io/projects/pathdiffuser/
