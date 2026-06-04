@@ -1,3 +1,3 @@
 # PathDiffuser
 
-https://dasaemlee.github.io/projects/pathdiffuser/
+https://github.com/CL2-UWaterloo/PathDiffuser
